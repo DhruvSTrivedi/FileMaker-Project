@@ -7,7 +7,6 @@ This project provides a detailed and comprehensive database management system fo
 - [Overview](#overview)
 - [Features](#features)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -61,7 +60,7 @@ To manipulate the database:
 ## Authors
 
 - **Dhruv Trivedi**
-- **Sharjeel Jafri**
+- [**Sharjeel Jafri**](https://www.linkedin.com/in/sharjeel-jafri-904475149/)
 
 ## Acknowledgments
 
